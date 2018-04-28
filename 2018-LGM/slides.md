@@ -255,8 +255,8 @@ Note: This extended graphics has many interesting properties that allow new ways
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 ### What has been done?
 
-<div class="fragment">We design from September 2017.</div>
-<div class="fragment">The environment is the classroom. </div>
+* We design from September 2017.
+* In the classroom.
 
 ---
 
