@@ -158,6 +158,116 @@ github.com/danigb
 
 ---
 
+<!-- .slide: data-background="./assets/miguel/techno.jpg" -->
+## Values and our Philosophy
+
+---
+<!-- .slide: data-background="./assets/miguel/mural2.jpg" -->
+### Technology as a reinforcement of human values
+
+<div class="fragment"> Tangible interfaces using objects and the body: intuitive interactions </div>
+
+---
+<!-- .slide: data-background="./assets/miguel/techno2.jpg" -->
+<div class="fragment"> We try to bring the digital world into our analogue everyday world </div>
+<div class="fragment"> Technology allows new relationships (as making a photography speak) </div>
+
+Note: We want to use digital technology to create environments that enable new, or improve, human connexions. 
+
+---
+<!-- .slide: data-background="./assets/miguel/collaborative0.jpg" -->
+### Collaborative environment
+<div class="fragment"> Collaborative experiences of exploration and discovery.</div>
+<div class="fragment"> Collaboration not only in what is created but also in HOW it is made.</div>
+
+---
+
+### Real Time: stepping into the unknown
+
+<div class="fragment">  Facilitate the experience of discovering without knowing what is going to happen. </div>
+<div class="fragment">  Where we become *genuine creators* and move to a shared-common place. </div>
+
+---
+<!-- .slide: data-background="./assets/miguel/participation.jpg" -->
+### New environments: new participation
+
+* Creating new interactive environments we also allow that different skills and interests stand out. 
+
+Note: For example, kids that do not participate in a standard classroom subject will be active and very focused mixing music in realtime with their feet.
+
+---
+
+<!-- .slide: data-background="./assets/miguel/mural_hardware2.jpg" -->
+## Hardware
+
+---
+
+### Environments
+
+<div class="fragment"> Classroom </div>
+<div class="fragment"> Installation </div>
+
+Note: We have to design taking into account how and where the hardware will be used. It is extremely important to choose wisely depending on that. 
+Classroom: hardware has to be kids-proof, with easy installation and re-configuration. To use by/with the teacher/assistant. Installation: hardware has to run automatically. Very stable. Permanent. Used for hours/days without assistance.
+
+---
+
+### Which type of interactions do we explore?
+
+---
+
+<div class="fragment"> Capacitive Touch </div>
+<div class="fragment"> Pressure/Conductive Touch </div>
+<div class="fragment"> Objects </div>
+<div class="fragment"> Computer Vision </div>
+
+---
+
+### Tangible Physical Graphical Interfaces
+
+Note: Yes, let's talk about "graphics".
+
+---
+<!-- .slide: data-background="./assets/miguel/ejemplo_mural2.jpg" -->
+
+---
+<!-- .slide: data-background="./assets/miguel/ejemplo_mural2_o.jpg" -->
+
+<div class="fragment"> An extended version of a graphic or visualisation is one that is physical, and allows tangible interactions.</div>
+<div class="fragment"> It is bringing digital graphics into the physical world and making them interactive, touchable, tangible.</div>
+
+Note: This extended graphics has many interesting properties that allow new ways of interaction with a visual representation.
+
+---
+
+### What has been done?
+
+<div class="fragment">We design from September 2017.</div>
+<div class="fragment">The environment is the classroom. </div>
+
+---
+
+* "Sonic Landscapes, life histories"
+* "Interactive Music Pads"
+
+---
+
+### Sonic Landscapes, life histories.
+
+---
+
+<iframe width="1900" height="800" data-src="./assets/miguel/mural.mp4"></iframe>
+
+---
+
+### Interactive Music Pads
+
+---
+
+<iframe width="1900" height="800" data-src="./assets/miguel/floorpads.mp4"></iframe>
+ 
+---
+
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
 ## Software
