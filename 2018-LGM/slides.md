@@ -76,21 +76,25 @@ github.com/danigb
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-## Challenges
+## Two questions
 
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-#### Challenges
-
 ### Music performance
+
+How to translate an individual music performance into a collective one.
 
 **individual ⇒ collective**
 
-### Hardware and software
+---
 
-**replicable**
+### Replicability
+
+How to make technology accesible in the classrom
+
+**low tech vs. high tech**
 
 ---
 
@@ -132,19 +136,51 @@ github.com/danigb
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-## Replication
+## Replicability
 
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-## Replication
+## Replicability
+
+* Free software
+
+_(Open Source Software)_
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
+## Replicability
+
+* Free software (OSS)
+* Cheap hardware
+
+_(Open Source Hardware)_
+
+---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
+## Replicability
 
 * Free software (OSS)
 * Cheap hardware (OSH)
 * Reuse actual hardware
-* Setup should be simple
-* Easy to use
+
+_Old android tablets and linux computers_
+
+---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
+## Replicability
+
+* Free software (OSS)
+* Cheap hardware (OSH)
+* Reuse actual hardware
+* Easy setup and usage
+
+_(I'm looking at you, teacher ;-)_
 
 ---
 
@@ -357,42 +393,6 @@ Note: This extended graphics has many interesting properties that allow new ways
 ## Remote control
 
 We added a thrid component: a remote control (also connected via wireless) that allows to trigger sounds.
-
----
-
-<!-- .slide: data-background="./assets/fondo.jpg" -->
-
-##### Software
-
-## Scenario
-
-**Outside the classroom**
-
-* Download the app
-
----
-
-<!-- .slide: data-background="./assets/fondo.jpg" -->
-
-#### Software
-
-## Scenario
-
-**At the classroom**
-
-* Create a wireless network with it's mobile phone
-* Connect the computer to the wireless network
-* Open the antropoloops app in the computer
-* Open the antropoloop app in the phone
-* Connect a makey-makey into the phone
-
----
-
-<!-- .slide: data-background="./assets/fondo.jpg" -->
-
-#### Software
-
-## Demo
 
 ---
 
