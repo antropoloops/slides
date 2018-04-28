@@ -46,7 +46,7 @@ revealOptions:
 
 <!-- 3 -->
 
-<!-- .slide: data-background-video="./assets/v-cole0.mp4" -->
+<!-- .slide: data-background-video="./videos/v-cole0.mp4" -->
 
 ---
 
@@ -58,7 +58,7 @@ revealOptions:
 
 <!-- 5 -->
 
-<!-- .slide: data-background-video="./assets/san-jose-obrero.mp4" -->
+<!-- .slide: data-background-video="./videos/san-jose-obrero.mp4" -->
 
 ---
 
@@ -70,7 +70,7 @@ revealOptions:
 
 <!-- 7 -->
 
-<!-- .slide: data-background-video="./assets/01-cole-sonoro-s.mp4" -->
+<!-- .slide: data-background-video="./videos/01-cole-sonoro-s.mp4" -->
 
 ---
 
