@@ -272,10 +272,7 @@ Note: This extended graphics has many interesting properties that allow new ways
 
 ---
 
-<!-- .slide: data-background="./assets/fondo.jpg" -->
-
-
-<iframe width="1900" height="800" data-src="./videos/mural.mp4"></iframe>
+<!-- .slide: data-background-video="./videos/mural.mp4" -->
 
 ---
 
@@ -284,10 +281,8 @@ Note: This extended graphics has many interesting properties that allow new ways
 
 ---
 
-<!-- .slide: data-background="./assets/fondo.jpg" -->
+<!-- .slide: data-background-video="./videos/floorpads.mp4" -->
 
-<iframe width="1900" height="800" data-src="./videos/floorpads.mp4"></iframe>
- 
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
