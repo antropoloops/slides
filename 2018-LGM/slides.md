@@ -50,6 +50,10 @@ revealOptions:
 
 ---
 
+<!-- .slide: data-background="./assets/carasso.png" -->
+
+---
+
 <!-- .slide: data-background-video="./videos/san-jose-obrero.mp4" -->
 
 ---
@@ -398,3 +402,15 @@ We added a thrid component: a remote control (also connected via wireless) that 
 #### Software
 
 ## Demo
+
+---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
+### DEMO
+
+#### WIFI: **antropoloops**
+
+<br>
+
+## http://192.168.0.158:3333
