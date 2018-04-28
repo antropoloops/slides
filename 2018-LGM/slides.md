@@ -158,25 +158,16 @@ github.com/danigb
 
 ### Technology as a reinforcement of human values
 
-<div class="fragment"> Tangible interfaces using objects and the body: intuitive interactions </div>
+<div class="fragment"> Tangible interfaces using objects and the body: extended body intuitive interactions </div>
 
 ---
 
 <!-- .slide: data-background="./assets/miguel/techno2.jpg" -->
 
 <div class="fragment"> We try to bring the digital world into our analogue everyday world </div>
-<div class="fragment"> Technology allows new relationships (as making a photography speak) </div>
+<div class="fragment"> Allowing new relationships (as making a photography speak) </div>
 
 Note: We want to use digital technology to create environments that enable new, or improve, human connexions.
-
----
-
-<!-- .slide: data-background="./assets/miguel/collaborative0.jpg" -->
-
-### Collaborative environment
-
-<div class="fragment"> Collaborative experiences of exploration and discovery.</div>
-<div class="fragment"> Collaboration not only in what is created but also in HOW it is made.</div>
 
 ---
 
