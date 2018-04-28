@@ -202,6 +202,7 @@ Note: For example, kids that do not participate in a standard classroom subject 
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 ### Environments
 
 <div class="fragment"> Classroom </div>
@@ -223,14 +224,17 @@ Classroom: hardware has to be kids-proof, with easy installation and re-configur
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 ### Tangible Physical Graphical Interfaces
 
 Note: Yes, let's talk about "graphics".
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/ejemplo_mural2.jpg" -->
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/ejemplo_mural2_o.jpg" -->
 
 <div class="fragment"> An extended version of a graphic or visualisation is one that is physical, and allows tangible interactions.</div>
@@ -240,6 +244,7 @@ Note: This extended graphics has many interesting properties that allow new ways
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 ### What has been done?
 
 <div class="fragment">We design from September 2017.</div>
@@ -247,10 +252,13 @@ Note: This extended graphics has many interesting properties that allow new ways
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 * "Sonic Landscapes, life histories"
 * "Interactive Music Pads"
 
 ---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 
 ### Sonic Landscapes, life histories.
 
@@ -260,9 +268,12 @@ Note: This extended graphics has many interesting properties that allow new ways
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 ### Interactive Music Pads
 
 ---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 
 <iframe width="1900" height="800" data-src="./assets/miguel/floorpads.mp4"></iframe>
  
