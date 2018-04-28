@@ -30,7 +30,7 @@ revealOptions:
 
 <img src="./assets/antropoloops 3 sin fondo.png">
 
-#### is a music remix and data visualisation project
+#### is a musical remix and data visualisation project
 
 ---
 
