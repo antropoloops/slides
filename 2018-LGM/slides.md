@@ -46,11 +46,11 @@ revealOptions:
 
 ---
 
-<!-- .slide: data-background="./assets/presentacion-04-equipo-antropoloops.jpg" -->
+<!-- .slide: data-background="./assets/carasso.png" -->
 
 ---
 
-<!-- .slide: data-background="./assets/carasso.png" -->
+<!-- .slide: data-background="./assets/presentacion-04-equipo-antropoloops.jpg" -->
 
 ---
 
