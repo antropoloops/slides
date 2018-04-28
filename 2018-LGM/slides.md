@@ -76,13 +76,13 @@ github.com/danigb
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-## Two questions
+## Questions / challenges
 
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-### Music performance
+## Music performance
 
 How to translate an individual music performance into a collective one.
 
@@ -90,15 +90,9 @@ How to translate an individual music performance into a collective one.
 
 ---
 
-### Replicability
-
-How to make technology accesible in the classrom
-
-**low tech vs. high tech**
-
----
-
 ## Music performance
+
+How to create a meaningful experience
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
@@ -114,6 +108,8 @@ How to make technology accesible in the classrom
 
 ## Music performance
 
+#### at school
+
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
 ---
@@ -128,15 +124,21 @@ How to make technology accesible in the classrom
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-#### Music performance
+## Music performance
+
+#### Solution:
 
 ### Physical (tangible) interfaces
 
 ---
 
+## Replicability
+
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
-## Replicability
+How to make technology accesible in the classrom
+
+**low tech vs. high tech**
 
 ---
 
@@ -147,6 +149,8 @@ How to make technology accesible in the classrom
 * Free software
 
 _(Open Source Software)_
+
+---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
@@ -405,3 +409,13 @@ We added a thrid component: a remote control (also connected via wireless) that 
 <br>
 
 ## http://192.168.0.158:3333
+
+---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
+## Thanks
+
+**http://talleres.antropoloops.com**
+
+**talleres@antropoloops.com**
