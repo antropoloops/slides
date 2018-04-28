@@ -74,8 +74,6 @@ revealOptions:
 
 ---
 
----
-
 <!-- .slide: data-background="./assets/fondo.jpg" -->
 
 ## Hello
