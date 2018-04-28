@@ -162,12 +162,14 @@ github.com/danigb
 ## Values and our Philosophy
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/mural2.jpg" -->
 ### Technology as a reinforcement of human values
 
 <div class="fragment"> Tangible interfaces using objects and the body: intuitive interactions </div>
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/techno2.jpg" -->
 <div class="fragment"> We try to bring the digital world into our analogue everyday world </div>
 <div class="fragment"> Technology allows new relationships (as making a photography speak) </div>
@@ -175,6 +177,7 @@ github.com/danigb
 Note: We want to use digital technology to create environments that enable new, or improve, human connexions. 
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/collaborative0.jpg" -->
 ### Collaborative environment
 <div class="fragment"> Collaborative experiences of exploration and discovery.</div>
@@ -182,12 +185,15 @@ Note: We want to use digital technology to create environments that enable new, 
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
 ### Real Time: stepping into the unknown
 
 <div class="fragment">  Facilitate the experience of discovering without knowing what is going to happen. </div>
 <div class="fragment">  Where we become *genuine creators* and move to a shared-common place. </div>
 
 ---
+
 <!-- .slide: data-background="./assets/miguel/participation.jpg" -->
 ### New environments: new participation
 
@@ -213,9 +219,13 @@ Classroom: hardware has to be kids-proof, with easy installation and re-configur
 
 ---
 
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
 ### Which type of interactions do we explore?
 
 ---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
 
 <div class="fragment"> Capacitive Touch </div>
 <div class="fragment"> Pressure/Conductive Touch </div>
@@ -224,7 +234,7 @@ Classroom: hardware has to be kids-proof, with easy installation and re-configur
 
 ---
 
-<!-- .slide: data-background="./assets/fondo.jpg" -->
+<!-- .slide: data-background="./assets/miguel/ejemplo_mural2_o.jpg" -->
 ### Tangible Physical Graphical Interfaces
 
 Note: Yes, let's talk about "graphics".
@@ -237,8 +247,8 @@ Note: Yes, let's talk about "graphics".
 
 <!-- .slide: data-background="./assets/miguel/ejemplo_mural2_o.jpg" -->
 
-<div class="fragment"> An extended version of a graphic or visualisation is one that is physical, and allows tangible interactions.</div>
-<div class="fragment"> It is bringing digital graphics into the physical world and making them interactive, touchable, tangible.</div>
+* An extended version of a graphic or visualisation is one that is physical, and allows tangible interactions.
+* It is bringing digital graphics into the physical world and making them interactive, touchable, tangible.
 
 Note: This extended graphics has many interesting properties that allow new ways of interaction with a visual representation.
 
@@ -263,6 +273,9 @@ Note: This extended graphics has many interesting properties that allow new ways
 ### Sonic Landscapes, life histories.
 
 ---
+
+<!-- .slide: data-background="./assets/fondo.jpg" -->
+
 
 <iframe width="1900" height="800" data-src="./assets/miguel/mural.mp4"></iframe>
 
