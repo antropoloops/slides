@@ -12,8 +12,6 @@ revealOptions:
   maxScale: 2.3
 ---
 
-<!-- 0 -->
-
 <!-- .slide: data-background="./assets/presentacion-01.jpg" -->
 
 <br>
@@ -28,8 +26,6 @@ revealOptions:
 
 ---
 
-<!-- 1 -->
-
 <!-- .slide: data-background="./assets/presentacion-02.jpg" -->
 
 <img src="./assets/antropoloops 3 sin fondo.png">
@@ -38,37 +34,29 @@ revealOptions:
 
 ---
 
-<!-- 2 -->
-
 <!-- .slide: data-background="./assets/presentacion-03-equipo-antropoloops.jpg" -->
 
 ---
 
-<!-- 3 -->
+<!-- .slide: data-background-video="./videos/introantropoloops.mp4" -->
+
+---
 
 <!-- .slide: data-background-video="./videos/v-cole0.mp4" -->
 
 ---
 
-<!-- 4 -->
-
 <!-- .slide: data-background="./assets/presentacion-04-equipo-antropoloops.jpg" -->
 
 ---
-
-<!-- 5 -->
 
 <!-- .slide: data-background-video="./videos/san-jose-obrero.mp4" -->
 
 ---
 
-<!-- 6 -->
-
 <!-- .slide: data-background="./assets/presentacion-05.jpg" -->
 
 ---
-
-<!-- 7 -->
 
 <!-- .slide: data-background-video="./videos/01-cole-sonoro-s.mp4" -->
 
@@ -157,11 +145,13 @@ github.com/danigb
 ---
 
 <!-- .slide: data-background="./assets/miguel/techno.jpg" -->
+
 ## Values and our Philosophy
 
 ---
 
 <!-- .slide: data-background="./assets/miguel/mural2.jpg" -->
+
 ### Technology as a reinforcement of human values
 
 <div class="fragment"> Tangible interfaces using objects and the body: intuitive interactions </div>
@@ -169,15 +159,18 @@ github.com/danigb
 ---
 
 <!-- .slide: data-background="./assets/miguel/techno2.jpg" -->
+
 <div class="fragment"> We try to bring the digital world into our analogue everyday world </div>
 <div class="fragment"> Technology allows new relationships (as making a photography speak) </div>
 
-Note: We want to use digital technology to create environments that enable new, or improve, human connexions. 
+Note: We want to use digital technology to create environments that enable new, or improve, human connexions.
 
 ---
 
 <!-- .slide: data-background="./assets/miguel/collaborative0.jpg" -->
+
 ### Collaborative environment
+
 <div class="fragment"> Collaborative experiences of exploration and discovery.</div>
 <div class="fragment"> Collaboration not only in what is created but also in HOW it is made.</div>
 
@@ -193,26 +186,29 @@ Note: We want to use digital technology to create environments that enable new, 
 ---
 
 <!-- .slide: data-background="./assets/miguel/participation.jpg" -->
+
 ### New environments: new participation
 
-* Creating new interactive environments we also allow that different skills and interests stand out. 
+* Creating new interactive environments we also allow that different skills and interests stand out.
 
 Note: For example, kids that do not participate in a standard classroom subject will be active and very focused mixing music in realtime with their feet.
 
 ---
 
 <!-- .slide: data-background="./assets/miguel/mural_hardware2.jpg" -->
+
 ## Hardware
 
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
+
 ### Environments
 
 <div class="fragment"> Classroom </div>
 <div class="fragment"> Installation </div>
 
-Note: We have to design taking into account how and where the hardware will be used. It is extremely important to choose wisely depending on that. 
+Note: We have to design taking into account how and where the hardware will be used. It is extremely important to choose wisely depending on that.
 Classroom: hardware has to be kids-proof, with easy installation and re-configuration. To use by/with the teacher/assistant. Installation: hardware has to run automatically. Very stable. Permanent. Used for hours/days without assistance.
 
 ---
@@ -233,6 +229,7 @@ Classroom: hardware has to be kids-proof, with easy installation and re-configur
 ---
 
 <!-- .slide: data-background="./assets/miguel/ejemplo_mural2_o.jpg" -->
+
 ### Tangible Physical Graphical Interfaces
 
 Note: Yes, let's talk about "graphics".
@@ -253,6 +250,7 @@ Note: This extended graphics has many interesting properties that allow new ways
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
+
 ### What has been done?
 
 * We design from September 2017.
@@ -261,6 +259,7 @@ Note: This extended graphics has many interesting properties that allow new ways
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
+
 * "Sonic Landscapes, life histories"
 * "Interactive Music Pads"
 
@@ -277,6 +276,7 @@ Note: This extended graphics has many interesting properties that allow new ways
 ---
 
 <!-- .slide: data-background="./assets/fondo.jpg" -->
+
 ### Interactive Music Pads
 
 ---
